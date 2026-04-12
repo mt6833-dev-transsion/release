@@ -5,16 +5,16 @@
 1. **Prepare your files**  
    Place the ZIP on your SD card, internal storage, or OTG device.
 
-2. **Flash the ZIP**  
+2. **Format data / Factory reset**
+
+3. **Flash the ZIP**  
    Select and flash it from your custom recovery.
 
-3. **Wait for the process to complete**  
+4. **Wait for the process to complete**  
    Flashing may take a while — any errors during this step are generally fine.
 
-4. **Reboot to recovery**  
+5. **Reboot to recovery**  
   it will changed to oss recovery.
-    
-5. **Format data / Factory reset**
 
 6. **Reboot system**
 
